@@ -1,4 +1,11 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFobWcxcDBzZjdwZDgzemlmdnJsdXFzYm4zZjl0MWZuaWtrZmQwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9NnCfXjsJrF2MaMrlQ/giphy.gif" width="100" alt="gif of woman running">
+</div>
+<h1 align="center"> 👋🏻 Hi, I'm Sarah!</h1>
+<div id="badges" align="right">
+  <a href="linkedin.com/sarahaglenn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"></a>
+</div>
+<img src="https://komarev.com/ghpvc/?sarahaglenn&style=flat-square&color=brightgreen" alt="View count for my GitHub profile"/>
 
 <!--
 **sarahaglenn/sarahaglenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
