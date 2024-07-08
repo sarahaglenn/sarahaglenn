@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"> 👋🏻 Hi, I'm Sarah!</h1>
 <div id="badges" align="right">
-  <a href="linkedin.com/sarahaglenn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"></a>
+  <a href="https://www.linkedin.com/sarahaglenn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"></a>
 </div>
 <img src="https://komarev.com/ghpvc/?sarahaglenn&style=flat-square&color=brightgreen" alt="View count for my GitHub profile"/>
 
